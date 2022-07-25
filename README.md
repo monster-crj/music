@@ -1,2 +1,3 @@
-# music-app
-预览地址：https://monster-crj.github.io/music-app/
+# music-box
+基于vue2+vur-router+axios+elemnt-ui的音乐播放器
+预览地址：https://monster-crj.github.io/music-box/
